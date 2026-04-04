@@ -157,6 +157,3 @@ This tool is for educational and security awareness purposes. Always follow your
 - v1.2: Improved scoring algorithm and crack time estimation
 
 ---
-
-**Stay Secure! 🔒**</content>
-<parameter name="filePath">c:\Users\Kino\Documents\Python projects\password1strg\README.md
