@@ -25,7 +25,7 @@ PassIt is a lightweight, local-only password manager that stores your credential
 
 ```bash
 # Clone the repository
-git clone https://github.com/[YOUR_USERNAME]/passit.git
+git clone https://github.com/Dekin-eng/passit.git
 
 # Go to the project folder
 cd passit
