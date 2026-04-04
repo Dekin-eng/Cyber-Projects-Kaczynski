@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yazid Mohamed Moussa
+# 👋 Hi, I'm Yazid
 
 **SOC Analyst Apprentice** | Network Security | Digital Forensics | Incident Response
 
