@@ -6,7 +6,7 @@
 
 ## About Me
 
-SOC Analyst apprentice with 8 months of hands-on experience in network security monitoring, digital forensics, incident response, and threat detection.
+SOC Analyst apprentice hands-on experience in network security monitoring, digital forensics, incident response, and threat detection.
 
 ## Focus Areas
 
