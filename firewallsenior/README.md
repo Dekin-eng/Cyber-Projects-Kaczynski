@@ -11,12 +11,6 @@
 
 ---
 
-## 📸 Screenshot
-
-> *Dashboard showing real-time connection monitoring, threat feed, and security statistics.*
-
----
-
 ## ✨ Features
 
 - **Real-time Connection Monitoring** — continuously scans all active network connections using `psutil`
